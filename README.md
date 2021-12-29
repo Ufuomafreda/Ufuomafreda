@@ -1,1 +1,1 @@
-"# Ufuomafreda" 
+Sring [] Days = {"Monday","Tuesday", "Wednesday"} 
