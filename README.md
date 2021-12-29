@@ -1,1 +1,1 @@
-Sring [] Days = {"Monday","Tuesday", "Wednesday"} 
+String [] Days = {"Monday","Tuesday", "Wednesday"} 
